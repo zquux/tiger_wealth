@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Symbol",
+    "field": "title",
+    "name1": "Sort by A-Z",
+    "name2": "Sort by Z-A"
+  },
+  {
+    "title": "Current Price",
+    "field": "currentPrice",
+    "name1": "Smallest to greatest",
+    "name2": "Greatest to smallest"
+  },
+  {
+    "title": "Recommended Date",
+    "field": "recommendedDate",
+    "name1": "Oldest to newest",
+    "name2": "Newest to oldest"
+  },
+  {
+    "title": "Market Cap",
+    "field": "marketCap",
+    "name1": "Smallest to greatest",
+    "name2": "Greatest to smallest"
+  },
+  {
+    "title": "Recommended Price",
+    "field": "recommendedPrice",
+    "name1": "Smallest to greatest",
+    "name2": "Greatest to smallest"
+  },
+  {
+    "title": "Return Since Rec",
+    "field": "returnSinceRec",
+    "name1": "Smallest to greatest",
+    "name2": "Greatest to smallest"
+  },
+  {
+    "title": "S&P 500 Return",
+    "field": "sp500Return",
+    "name1": "Smallest to greatest",
+    "name2": "Greatest to smallest"
+  },
+  {
+    "title": "Return VS S&P 500",
+    "field": "sp500vsReturn",
+    "name1": "Smallest to greatest",
+    "name2": "Greatest to smallest"
+  },
+  {
+    "title": "Risk",
+    "field": "risk",
+    "name1": "High to Low",
+    "name2": "Low to High"
+  },
+  {
+    "title": "Open or Closed",
+    "field": "isOpen",
+    "name1": "Open",
+    "name2": "Closed"
+  },
+  {
+    "title": "Closed Price",
+    "field": "closingPrice",
+    "name1": "Ascending",
+    "name2": "Descending"
+  },
+  {
+    "title": "Closed Date",
+    "field": "closingDate",
+    "name1": "Oldest to newest",
+    "name2": "Newest to oldest"
+  }
+]
